@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi. I’m Priyanshu. I build lots of demos of various apps which I try while learning. Most of them are built using latest Javascript Technologies, and so you can certainly call me a JavaScript fanatic. 
+Hi 👋 I’m Priyanshu. I build lots of demos of various apps which I try while learning. Most of them are built using latest Javascript Technologies, and so you can certainly call me a JavaScript fanatic. 
 
 I work at Accenture as a Software Engineer. For more information about me (and a whole lot of mysteries), check out my [portfolio](tpriyanshu.bitbucket.io)
 

@@ -62,4 +62,4 @@ I am a Software Engineer, Full stack Web developer and freelancer. For more info
 
 [website]: https://tpriyanshu.bitbucket.io
 [instagram]: https://www.instagram.com/_priyanshu.tiwari/
-[linkedin]: www.linkedin.com/in/tpriyanshu
+[linkedin]: http://www.linkedin.com/in/tpriyanshu

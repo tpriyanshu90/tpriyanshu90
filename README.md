@@ -23,9 +23,9 @@ I am a Software Engineer, Full stack web developer and freelancer. For more info
 
 ### Connect with me:
 
-[<img align="left" alt="fiverr.com" width="22px" src="https://icon2.cleanpng.com/20180617/xqk/kisspng-fiverr-freelancer-logo-business-online-marketplace-fiverr-5b2703281851a4.6093498015292833680996.jpg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="tpriyanshu" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/web-solution-830602.png" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" />][instagram]
 
 <br />
 

@@ -24,7 +24,6 @@ I am a Software Engineer, Full stack Web developer and freelancer. For more info
 ### Connect with me:
 
 [<img align="left" alt="tpriyanshu" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/web-solution-830602.png" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" />][instagram]
 
 <br />

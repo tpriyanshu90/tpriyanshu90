@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with JavaScript. Reach out to me, if you need any assistance.
 - ⚡ Fun fact: ...
 -->
+## Hi Devs👋
+I build lots of demos of various web apps which I try while learning. Most of them are built using latest Javascript Technologies, and so you can certainly call me a JavaScript fanatic. 
 
-Hi Devs👋 I’m Priyanshu. I build lots of demos of various apps which I try while learning. Most of them are built using latest Javascript Technologies, and so you can certainly call me a JavaScript fanatic. 
+I am a Software Engineer, Full stack Web developer, Data Engineer and freelancer. For more information about me (and a whole lot of mysteries), check out my [portfolio](https://tpriyanshu.bitbucket.io)
 
-I am a Software Engineer, Full stack Web developer and freelancer. For more information about me (and a whole lot of mysteries), check out my [portfolio](https://tpriyanshu.bitbucket.io)
-
-- 🔭 I’m currently working on Azure Cloud and microservices framework.
+- 🔭 I’m currently working on various Cloud and microservices.
 - 👯 I’m looking to collaborate on JavaScript projects which involve cloud in it.
 - 💬 Ask me about how to begin a kickass career in Software Engineering
 - 📫 How to reach me: visit my [website](https://tpriyanshu.bitbucket.io), I am available there 24 X 7.

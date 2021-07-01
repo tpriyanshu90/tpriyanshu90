@@ -42,16 +42,3 @@ I am a Software Engineer, Full stack Web developer, Data Engineer and freelancer
 <img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <br />
 <br />
-
----
-
-<details>
-  <summary>⚡ GitHub Stats</summary>
-
-  <img align="left" alt="Ibad's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tpriyanshu90&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://tpriyanshu.bitbucket.io
-[instagram]: https://www.instagram.com/_priyanshu.tiwari/
-[linkedin]: http://www.linkedin.com/in/tpriyanshu

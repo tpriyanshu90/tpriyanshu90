@@ -21,11 +21,6 @@ I am a Software Engineer, Full stack Web developer, Data Engineer and freelancer
 - 💬 Ask me about how to begin a kickass career in Software Engineering
 - 📫 How to reach me: visit my [website](https://tpriyanshu.bitbucket.io), I am available there 24 X 7.
 
-### Connect with me:
-
-[<img align="left" alt="tpriyanshu" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/web-solution-830602.png" />][website]
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

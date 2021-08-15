@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with JavaScript. Reach out to me, if you need any assistance.
 - ⚡ Fun fact: ...
 -->
-## Hi Devs👋
+## Hi Devs👋 ![Total Views](https://views.whatilearened.today/views/github/tpriyanshu/tpriyanshu.svg)
 I build lots of demos of various web apps which I try while learning. Most of them are built using latest Javascript Technologies, and so you can certainly call me a JavaScript fanatic. 
 
 I am a Software Engineer, Full stack Web developer, Data Engineer and freelancer. For more information about me (and a whole lot of mysteries), check out my [portfolio](https://tpriyanshu.bitbucket.io)

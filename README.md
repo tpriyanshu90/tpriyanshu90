@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi Devs👋 ![Total Views](https://views.whatilearened.today/views/github/tpriyanshu/tpriyanshu.svg)
-I build lots of demos of various web apps which I try while learning. Most of them are built using latest Javascript Technologies, and so you can certainly call me a JavaScript fanatic. 
+I am a professional Software Engineer and Full Stack Web Developer. I enjoy working on latest techs. Most of them are built using latest Javascript Technologies, and so you can certainly call me a JavaScript fanatic. 
 
 I am a Software Engineer, Full stack Web developer, Data Engineer and freelancer. For more information about me (and a whole lot of mysteries), check out my [portfolio](https://tpriyanshu.bitbucket.io)
 

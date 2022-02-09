@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi Devs👋 ![Total Views](https://views.whatilearened.today/views/github/tpriyanshu/tpriyanshu.svg)
-I am a professional Software Engineer and Full Stack Web Developer. I enjoy working on latest techs. Most of them are built using latest Javascript Technologies, and so you can certainly call me a JavaScript fanatic. 
+I am a professional Software Engineer, Data Engineer and Full Stack Web Developer. I enjoy working on latest techs and love solving problems in the field of data and web development. I am a level-2 seller at Fiverr and a Top Rated seller at UpWork. So, yes I have solved various problems of my clients using my skills.
 
-I am a Software Engineer, Full stack Web developer, Data Engineer and freelancer. For more information about me (and a whole lot of mysteries), check out my [portfolio](https://tpriyanshu.bitbucket.io)
+For more information about me (and a whole lot of mysteries), check out my [portfolio](https://tpriyanshu.bitbucket.io)
 
-- 🔭 I’m currently working on Azure, AWS and microservices.
-- 👯 I’m looking to collaborate on JavaScript projects which involve cloud in it.
+- 🔭 I’m currently enjoying the field of Data and exploring every bit and pieces of it.
+- 👯 I’m looking to collaborate on BigData projects (Spark/AWS/Azure) and JavaScript projects that involve cloud in it.
 - 💬 Ask me about how to begin a kickass career in Software Engineering
 - 📫 How to reach me: visit my [website](https://tpriyanshu.bitbucket.io), I am available there 24 X 7.
 

@@ -18,7 +18,7 @@ For more information about me (and a whole lot of mysteries), check out my [port
 
 - 🔭 I’m currently enjoying the field of Data and exploring every bit and pieces of it.
 - 👯 I’m looking to collaborate on BigData projects (Spark/AWS/Azure) and JavaScript projects that involve cloud in it.
-- 💬 Ask me about how to begin a kickass career in Software Engineering
+- 💬 Hit me up to discuss about Software Engineering, Data Engineering and Web Development
 - 📫 How to reach me: visit my [website](https://tpriyanshu.bitbucket.io), I am available there 24 X 7.
 
 ### Languages and Tools:

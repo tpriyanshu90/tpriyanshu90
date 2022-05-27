@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi Devs👋 ![Total Views](https://views.whatilearened.today/views/github/tpriyanshu/tpriyanshu.svg)
-I am a professional Software Engineer, Data Engineer and Full Stack Web Developer. I enjoy working on latest techs and love solving problems in the field of data and web development. I am a level-2 seller at Fiverr and a Top Rated seller at UpWork. So, yes I have solved various problems of my clients using my skills.
+I am a professional Software Engineer and Full Stack Web Developer. I enjoy working on latest techs and love solving problems in the field of web development. I am a level-2 seller at Fiverr and a Top Rated seller at UpWork. So, yes I have solved various problems of my clients using my skills.
 
 For more information about me (and a whole lot of mysteries), check out my [portfolio](https://tpriyanshu.bitbucket.io)
 
-- 🔭 I’m currently enjoying the field of Data and exploring it everyday.
-- 👯 I’m looking to collaborate on BigData projects (Spark/AWS/Azure) and JavaScript projects that involve cloud in it.
-- 💬 Hit me up to discuss about Software Engineering, Data Engineering and Web Development
+- 🔭 I’m currently enjoying the field of Web and exploring it everyday.
+- 👯 I’m looking to collaborate on Web Dev projects and JavaScript projects that involve cloud in it.
+- 💬 Hit me up to discuss about Software Engineering, and Web Development
 - 📫 How to reach me: visit my [website](https://tpriyanshu.bitbucket.io), I am available there 24 X 7.
 
 ### Languages and Tools:

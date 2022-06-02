@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi Devs👋 ![Total Views](https://views.whatilearened.today/views/github/tpriyanshu/tpriyanshu.svg)
-I am a professional Software Engineer and Full Stack Web Developer. I enjoy working on latest techs and love solving problems in the field of web development. I am a level-2 seller at Fiverr and a Top Rated seller at UpWork. So, yes I have solved various problems of my clients using my skills.
+I am a professional Software Engineer and Full Stack Web Developer. I enjoy working on latest techs and love solving problems in the field of web development. I have been a level-2 seller at Fiverr and a Top Rated seller at UpWork. So, yes I have solved various problems of my clients using my skills.
 
 For more information about me (and a whole lot of mysteries), check out my [portfolio](https://tpriyanshu.bitbucket.io)
 

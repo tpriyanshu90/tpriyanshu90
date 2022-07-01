@@ -16,8 +16,8 @@ I am a professional Software Engineer and Full Stack Web Developer. I enjoy work
 
 For more information about me (and a whole lot of mysteries), check out my [portfolio](https://tpriyanshu.bitbucket.io)
 
-- 🔭 I’m currently enjoying the field of Web and exploring it everyday.
-- 👯 I’m looking to collaborate on Web Dev projects and JavaScript projects that involve cloud in it.
+- 🔭 I’m currently enjoying the field of Web and microservices.
+- 👯 I’m looking to collaborate on projects where I can use my skills to solve some real world problems.
 - 💬 Hit me up to discuss about Software Engineering, and Web Development
 - 📫 How to reach me: visit my [website](https://tpriyanshu.bitbucket.io), I am available there 24 X 7.
 

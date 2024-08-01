@@ -19,7 +19,7 @@ For more information about me (and a whole lot of mysteries), check out my [port
 - 🔭 I’m currently enjoying the field of Web and Microservices.
 - 👯 I’m looking to collaborate on projects where I can use my skills to solve some real world problems.
 - 💬 Hit me up to discuss about Software Engineering, and Web Development
-- 📫 How to reach me: visit my [website](https://tpriyanshu.bitbucket.io), I am available there 24 X 7.
+- 📫 How to reach me: visit my [website](https://tpriyanshu.bitbucket.io), I am available there 24 X 7. Or reach out at [LinkedIn](https://www.linkedin.com/in/tiwari-priyanshu/)
 
 ### Languages and Tools:
 

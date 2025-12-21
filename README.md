@@ -1,8 +1,6 @@
 ## 🚀 Hi, I’m Priyanshu 👋
 
-**Software Engineer | Backend & Distributed Systems | Ex-Freelancer | Builder**
-
-![Profile Views](https://views.whatilearned.today/views/github/tpriyanshu/tpriyanshu.svg)
+**Software Engineer | Backend & Distributed Systems | Ex-Freelancer | Builder** ![Profile Views](https://views.whatilearened.today/views/github/tpriyanshu/tpriyanshu.svg)
 
 I’m a **Software Engineer with 5.5+ years of experience** building **scalable backend systems, data platforms, and cloud-native applications**.
 Currently working at **Amazon**, solving real-world problems at scale. Previously a **Top Rated seller on Upwork** and **Level-2 seller on Fiverr**, delivering production-grade solutions to global clients.

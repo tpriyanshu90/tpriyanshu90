@@ -1,45 +1,78 @@
-<!-- ### Hi devs 👋 -->
+## 🚀 Hi, I’m Priyanshu 👋
 
-<!--
-**tpriyanshu90/tpriyanshu90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Backend & Distributed Systems | Ex-Freelancer | Builder**
 
-Here are some ideas to get you started:
+![Profile Views](https://views.whatilearned.today/views/github/tpriyanshu/tpriyanshu.svg)
 
+I’m a **Software Engineer with 5.5+ years of experience** building **scalable backend systems, data platforms, and cloud-native applications**.
+Currently working at **Amazon**, solving real-world problems at scale. Previously a **Top Rated seller on Upwork** and **Level-2 seller on Fiverr**, delivering production-grade solutions to global clients.
 
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
-- 🤔 I’m looking for help with JavaScript. Reach out to me, if you need any assistance.
-- ⚡ Fun fact: ...
--->
-## Hi Devs👋 ![Total Views](https://views.whatilearened.today/views/github/tpriyanshu/tpriyanshu.svg)
-I am a professional Software Engineer and Full Stack Web Developer. I enjoy working on latest techs and love solving problems in the field of Software development. I have been a level-2 seller at Fiverr and a Top Rated seller at UpWork. So, yes I have solved various tech problems of my clients using my skills.
+I care deeply about:
 
-For more information about me (and a whole lot of mysteries), check out my [portfolio](https://tpriyanshu.bitbucket.io)
+* Clean architecture
+* System design
+* Performance & scalability
+* Building products that actually ship 🚢
 
-- 🔭 I’m currently enjoying the field of Web and Microservices.
-- 👯 I’m looking to collaborate on projects where I can use my skills to solve some real world problems.
-- 💬 Hit me up to discuss about Software Engineering, and Web Development
-- 📫 How to reach me: visit my [website](https://tpriyanshu.bitbucket.io), I am available there 24 X 7. Or reach out at [LinkedIn](https://www.linkedin.com/in/tiwari-priyanshu/)
+---
 
-### Languages and Tools:
+## 🧠 What I’m Working On
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<br />
-<br />
+* ⚙️ Backend & Distributed Systems (Java, Microservices, Event-Driven systems)
+* ☁️ Cloud & Data Engineering (AWS & Azure)
+* 🤖 GenAI systems using **Amazon Bedrock**
+
+---
+
+## 💬 Ask Me About
+
+* System Design & Scalability
+* Java backend & microservices
+* AWS (Kinesis, DynamoDB, SQS, SNS, Bedrock, ECS, RDS)
+* Azure Data Engineering (ADF, Databricks, ADLS, Purview)
+* Freelancing → Product company transition
+
+---
+
+## 🌐 Connect With Me
+
+* 🔗 Portfolio: [https://tpriyanshu.bitbucket.io](https://tpriyanshu.bitbucket.io)
+* 💼 LinkedIn: [https://www.linkedin.com/in/tiwari-priyanshu/](https://www.linkedin.com/in/tiwari-priyanshu/)
+* 📩 Open to collaboration & meaningful conversations
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+
+### Backend & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka)
+![Kinesis](https://img.shields.io/badge/Amazon_Kinesis-FF9900?style=for-the-badge\&logo=amazonaws)
+
+### Data & Infra
+
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge\&logo=databricks)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tpriyanshu90\&layout=compact\&theme=tokyonight)
+
+---
+
+## ⚡ Fun Fact
+
+I started from a **tier-3 college**, worked at a startup, went in top tier service based MNC, freelanced globally, and now build systems used by **millions of users** at top product based MNCs.

@@ -34,7 +34,7 @@ I care deeply about:
 
 ## 🌐 Connect With Me
 
-* 🔗 Portfolio: [https://tpriyanshu.bitbucket.io](https://tpriyanshu.bitbucket.io)
+* 🔗 Portfolio: [https://tpriyanshu90.github.io](https://tpriyanshu90.github.io/)
 * 💼 LinkedIn: [https://www.linkedin.com/in/tiwari-priyanshu/](https://www.linkedin.com/in/tiwari-priyanshu/)
 * 📩 Open to collaboration & meaningful conversations
 
